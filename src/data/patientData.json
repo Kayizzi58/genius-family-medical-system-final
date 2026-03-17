@@ -1,0 +1,11 @@
+[
+    {"id":"P2025001","name":"ian walya","email":"ian@email.com","telephone":"+256760824588","password":"12345678","data":{
+        "status":"OPD",
+        "appointment":[{"id":"AP2025001001","date":"jan 25 2026","with":"D2026001","time":"08:00am","status":"confirmed"}],
+        "Referral":[{"id":"REF2025001001","date":"24 jan 2026","to":"Mulago Hospital"}],
+        "message":[{"id":"MSG2025001001","date":"24 jan 2026","from":"N2025001"}],
+        "admission":[{"id":"ADM2025001001"}],
+        "consultation":[{"id":"CS2025001001","cost":10000,"with":"D2026001","time":"08:00am","date":"24 jan 2026"}],
+        "info":[{"id":"PB2025001001","prescription":[{"name":"paracentamol","cost":20000,"for":"inflamantion","given by":"DD2026001","date":"24 jan 2026"}]}]
+    }}
+]

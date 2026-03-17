@@ -1,0 +1,4 @@
+node_modules/ 
+dist/ 
+*-win32-x64/ 
+.env 

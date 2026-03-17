@@ -1,0 +1,5 @@
+[
+    {"D2026001":{"name":"ian walya","dateOfBirth":"jan 27 1992","gender":"male","Speciality":"doctor","patients":[
+        {"id":"P2025001", "atdate":"23 jan 2026","diagnosis":"DIAG2020001001","Referral":"REF2025001001","notes":"DIAG2020001001","IPD":"IPD2025001001"}
+    ]}}
+]

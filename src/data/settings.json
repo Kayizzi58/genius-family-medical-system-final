@@ -1,0 +1,6 @@
+[
+    {
+        "hospital name":
+        {"name":"Genius Medical Center","address":"P.O.Box 000","city":"kampala","country":"Uganda","street":"kyambongo","telephone":{"line1":"+2567000000","line2":"+2567000000"},"tagline":"lorem ipsum doll vipsum doll ipsum doll","employees":{"doctors":[{"id":"DC2026011","name":"ian walya","speciality":"pedriatrics"}]}}
+    }
+]

@@ -1,0 +1,5 @@
+[
+    {"id":"NR2025001","first name":"Sarah","middle name":"name","signed ward":"WRD001","last name":"name","dateOfBirth":"jan 44 1992","email":"sarah@email.com","speciality":"nusing","patients":[
+        {"id":"P2025001","ward":"WRD001","vitals":"VIT2025001001","medication":"MDRN2025001001","tasks":{"name":"wound dressing","status":true}}
+    ]}
+]

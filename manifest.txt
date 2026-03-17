@@ -1,0 +1,9 @@
+Employee Dashboard App;
+shoud contain;
+employee table[id, first name, last name, gender, job, salary, floor, office number]
+managing employees view[employee profile.]
+coms to employee[email]
+time management table[first name, last name, job, office number, time arrival, time departure]
+nav[table, time, notifications, mail, settings, account]
+dashhome[company name, logo, login, add person, remove person,]
+
